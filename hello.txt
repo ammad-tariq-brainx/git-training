@@ -1,4 +1,5 @@
 # Default is "World"
+# Author Ammad Tariq (ammad.tariq@brainxtech.com)
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
