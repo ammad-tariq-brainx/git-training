@@ -1,3 +1,5 @@
+require 'greeter'
+
 # Default is "World"
 # Author Ammad Tariq (ammad.tariq@brainxtech.com)
 name = ARGV.first || "World"
